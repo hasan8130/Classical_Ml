@@ -1,2 +1,2 @@
 # Classical_Ml
-Trying my hands on beginner friendly classical Machine Learning Projects.
+Worked on different dataset as part of the spartificial internship.
